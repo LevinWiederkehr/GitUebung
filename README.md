@@ -27,9 +27,9 @@ git pull origin <branchname>
 git push origin <branchname>
 
 
-# Mein Projekt
+# Verlinkung
 
-Willkommen zu meinem Projekt! Hier sind einige nützliche Ressourcen:
+Hier ist der Link zu der links.md-Datei:
 
 - [Git- und Markdown-Referenzen](links.md)
  
