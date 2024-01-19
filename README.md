@@ -32,6 +32,7 @@ git push origin <branchname>
 Hier ist der Link zu der links.md-Datei:
 
 - [Git- und Markdown-Referenzen](links.md)
+- [Lernjournal](https://wwimmozh-my.sharepoint.com/:f:/g/personal/levin_wiederkehr_wwimmo_ch/ElVwJaN_n1ZPunpBgCppOusBp5yS0fnoJCqrllNX7Wgcpg?e=Os81OY)
 
 
 # Review
